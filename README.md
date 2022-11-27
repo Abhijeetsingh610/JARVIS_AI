@@ -13,6 +13,7 @@ Prerequsites:
 
 
 *[Python3.6.2](https://www.python.org/downloads/release/python-362/)*
+*[Python3.11.0](https://www.python.org/downloads/release/python-3110/)*
 
 
 
